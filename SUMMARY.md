@@ -4,7 +4,7 @@
 
 ## Fadah
 
-* [Fadah](fadah/fadah.md)
+* [Fadah](fadah/fadah/fadah.md)
   * [Commands & Permissions](fadah/fadah/commands.md)
 * [Developer API](fadah/api/README.md)
   * [Accessing Data](fadah/api/accessing-data.md)

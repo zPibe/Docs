@@ -9,12 +9,14 @@ description: Access data  using the API.
 To get data from the API you will need to access the instance of the API. \
 To do this you will need to depend on Fadah. By adding it to your plugin.yml
 
+{% code title="" %}
 ```yaml
 name: FadahAPIExample
 version: '1.0'
 
 depend: [Fadah]
 ```
+{% endcode %}
 
 You will then need to get the instance of the API.
 

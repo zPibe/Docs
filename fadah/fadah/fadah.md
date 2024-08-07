@@ -28,8 +28,9 @@ description: >-
 **Plugin Requirements:**
 - Vault
 - A Compatible Economy Plugin
-- A database (MySQL, MariaDB, MongoDB) (Optional)
-- Redis (Optional)
+**Optional Requirements:**
+- A database (MySQL, MariaDB, MongoDB)
+- Redis
 
 ## Are you a developer? Check out the API docs!
 

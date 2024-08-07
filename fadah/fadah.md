@@ -6,4 +6,10 @@ description: >-
 
 # Fadah
 
-Docs Coming Soon!
+Usage docs soon!
+
+## Are you a developer? Check out the API docs!
+
+{% content-ref url="api/" %}
+[api](api/)
+{% endcontent-ref %}

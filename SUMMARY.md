@@ -5,7 +5,9 @@
 ## Fadah
 
 * [Fadah](fadah/fadah.md)
-* [Developer API](fadah/api.md)
+* [Developer API](fadah/api/README.md)
+  * [Accessing Data](fadah/api/accessing-data.md)
+  * [Events](fadah/api/events.md)
 
 ## Fadsb
 
